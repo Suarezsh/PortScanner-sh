@@ -3,7 +3,7 @@
 PyPortScanner es una herramienta simple de escaneo de puertos en Python. Puedes utilizarla para escanear puertos en un sitio web dado.
 
 ## Requisitos Previos
-- Asegúrate de tener Python  instalado en tu sistema.
+- Asegúrate de tener Python 3.(v+) instalado en tu sistema.
 
 ## Linux y Termux:
 # Clona el repositorio desde GitHub
@@ -13,4 +13,4 @@ git clone https://github.com/Suarezsh/PortScanner-sh.git
 cd PortScanner-sh
 
 # Ejecuta la herramienta
-python portSh.py
+python3 portSh.py
